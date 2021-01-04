@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.8">
+      <module name="Deschub.app" target="12" />
       <module name="OpenHub-master.app" target="12" />
     </bytecodeTargetLevel>
   </component>
