@@ -123,14 +123,8 @@ dependencies {
 
     implementation "com.jakewharton:butterknife:${BUTTERKNIFE_VERSION}"
     annotationProcessor "com.jakewharton:butterknife-compiler:${BUTTERKNIFE_VERSION}"
-
-    //数据库工具
     implementation "org.greenrobot:greendao:${GREEN_DAO_VERSION}"
-    //事件总线
     implementation "org.greenrobot:eventbus:${EVENT_BUS_VERSION}"
-    //文件下载
-
-    //RxJava
     implementation "io.reactivex:rxjava:${RXJAVA_VERSION}"
     implementation "io.reactivex:rxandroid:${RXJAVA_VERSION}"
 

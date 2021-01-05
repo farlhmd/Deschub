@@ -37,7 +37,7 @@
                     android:lines="1"
                     android:textSize="@dimen/text_large"
                     android:textColor="?android:textColorPrimary"
-                    android:text="Rays yu"
+                    android:text="Farhan"
                     android:paddingBottom="@dimen/spacing_small"
                     android:paddingEnd="@dimen/spacing_small"
                     android:paddingStart="@dimen/spacing_small"

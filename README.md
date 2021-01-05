@@ -1,5 +1,6 @@
 # Deschub
 Sebuah aplikasi social media(Github client) berbasis android
+* [Download apk](https://drive.google.com/file/d/1ngiNJzJtwKdkX3Jo8m6Xo98loqhBZ2H0/view?usp=sharing)
 ## Library yang digunakan:
 * [ButterKnife](https://github.com/JakeWharton/butterknife) Berfungsi untuk melakukan bind view
 * [GreenDao](https://github.com/greenrobot/greenDAO) Database SQLite untuk android studio
